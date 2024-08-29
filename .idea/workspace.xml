@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13f28222-2642-4abd-9964-cba042c776c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/laba5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/excel/ExcelManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/excel/PlayerScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/EnemyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/Fight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/bosses/Blaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/bosses/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/bosses/DarkKahn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/bosses/Onaga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/bosses/ShaoKahn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/fighters/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/fighters/JohnyCage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/fighters/KungLao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/fighters/SubZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/items/BagOfItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/items/BigPotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/items/CrossOfRevival.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/items/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/items/SmallPotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/soldiers/Kitana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/soldiers/Meleena.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/soldiers/Smoke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/soldiers/Soldier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/tanks/Baraka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/tanks/LiMei.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/tanks/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/tanks/Tanya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/wizards/Kenshi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/wizards/LiuKang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/wizards/Rain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fighter/wizards/Wizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/bagWindow/BagFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/bagWindow/BagPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/fightWindow/FightPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/fightWindow/FrameFight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/finishTableWindow/FinishTableFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/finishTableWindow/FinishTablePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/firstWindow/FirstFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/firstWindow/FirstPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/increasingCharacteristics/IncreasingFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/increasingCharacteristics/IncreasingPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/locationWindow/LocationFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/locationWindow/LocationPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/startTableWindow/StartTableFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/startTableWindow/StartTablePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/location/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2kru6afUJvFf1TU03zSMz5E4bVl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JAR Application.laba5.jar.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Desktop/laba5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="laba5.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/laba5_jar/laba5.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.laba5.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13f28222-2642-4abd-9964-cba042c776c1" name="Changes" comment="" />
+      <created>1724053842455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724053842455</updated>
+      <workItem from="1724053843500" duration="3855000" />
+      <workItem from="1724058009477" duration="7804000" />
+      <workItem from="1724854174201" duration="2362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
